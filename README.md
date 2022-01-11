@@ -1,1 +1,2 @@
-# Project-Frontend-Grup-23-24
+# Baliness
+You can checkit here https://baliness-2.netlify.app/

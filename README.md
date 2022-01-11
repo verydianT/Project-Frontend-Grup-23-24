@@ -1,2 +1,2 @@
 # Baliness
-You can checkit here https://baliness-2.netlify.app/
+You can check it here https://baliness-2.netlify.app/
